@@ -1,8 +1,1 @@
 /.idea/
-
-# 問題解決のためのアルゴリズム x 数学
-/algomath/*
-
-# Atcoder ABC
-/atcoder/*
-!/atcoder/template/

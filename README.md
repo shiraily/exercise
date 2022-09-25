@@ -4,7 +4,9 @@ This repo helps "me" to exercise programming: AtCoder, etc.
 
 ## AtCoder
 
-You can copy template to start ABC
+CAUTION: DO NOT PUSH TO REMOTE BEFORE TEST PERIOD IS FINISHED
+
+You can copy template to start ABC 270
 
 ```
 ./start_atcoder.zsh 270
